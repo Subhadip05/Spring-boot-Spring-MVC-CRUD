@@ -9,4 +9,5 @@ src/main/resources/templates/employees
 <br><br>
 
 And for create database by this sql script in MySQL workbench: 
+<br>
 sql-scripts/employee-directory.sql
